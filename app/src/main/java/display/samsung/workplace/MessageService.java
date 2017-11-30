@@ -15,4 +15,8 @@ public class MessageService extends Service {
     public IBinder onBind(Intent intent) {
         return null;
     }
+
+
+
+
 }
